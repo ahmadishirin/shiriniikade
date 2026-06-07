@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680">
+<defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff7ed"/><stop offset="1" stop-color="#ffd6df"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="24" stdDeviation="18" flood-color="#8a5a44" flood-opacity=".22"/></filter></defs>
+<rect width="900" height="680" rx="60" fill="url(#a)"/>
+<circle cx="150" cy="130" r="70" fill="#fff" opacity=".45"/><circle cx="760" cy="120" r="90" fill="#fff" opacity=".35"/><circle cx="740" cy="560" r="100" fill="#fff" opacity=".28"/>
+<g filter="url(#s)">
+<ellipse cx="450" cy="520" rx="280" ry="55" fill="#d8b59c" opacity=".55"/>
+<rect x="235" y="330" width="430" height="170" rx="35" fill="#fff"/>
+<rect x="235" y="270" width="430" height="105" rx="48" fill="#ffe0e8"/>
+<path d="M260 305 C320 230 390 345 450 270 C515 205 585 330 665 285 L665 375 H235 L235 312 C242 305 248 302 260 305Z" fill="#f39aaa"/>
+<rect x="285" y="408" width="330" height="26" rx="13" fill="#f7c7b5" opacity=".72"/>
+<circle cx="450" cy="245" r="38" fill="#e65368"/>
+<path d="M441 210 C475 185 500 215 488 247 C470 230 455 230 441 210Z" fill="#5a9a55"/>
+<circle cx="320" cy="250" r="25" fill="#fff" opacity=".75"/>
+<circle cx="590" cy="255" r="24" fill="#fff" opacity=".75"/>
+</g>
+<text x="450" y="620" text-anchor="middle" font-family="Tahoma, Arial" font-size="42" font-weight="900" fill="#8a5a44">شیرینی تازه، لحظه‌های شیرین</text>
+</svg>

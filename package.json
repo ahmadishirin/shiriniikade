@@ -1,0 +1,29 @@
+{
+  "name": "cake-pastry-shop",
+  "version": "1.0.0",
+  "description": "این پروژه یک Front-End کامل برای پروژه دانشگاهی «وب‌سایت سفارش کیک و شیرینی» است.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node api/index.js",
+    "seed": "node api/seed.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.6"
+  }
+}
